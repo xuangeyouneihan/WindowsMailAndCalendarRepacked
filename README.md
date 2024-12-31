@@ -15,13 +15,13 @@
 
 ## 下载
 
-点击下载：[16005.14326.21464.0](Release/windows-mail-and-calendar-repacked-16005-14326-21464-0.appxbundle)
+点击下载：[16005.14326.21464.0](https://github.com/xuangeyouneihan/WindowsMailAndCalendarRepacked/releases/download/16005.14326.21464.0/windows-mail-and-calendar-16005-14326-21464-0.appxbundle)
 
 ## 安装
 
 由于 Windows 只允许安装来自**微软商店**或者**企业开发者**的 appx/msix 软件包，所以我们需要先安装**自签名证书**来伪装成企业开发者，才能安装第三方软件包。
 
-1. 下载 [证书文件](Release/windows-mail-and-calendar-repacked.cer)，然后直接打开。
+1. 下载 [证书文件](https://github.com/xuangeyouneihan/WindowsMailAndCalendarRepacked/releases/download/16005.14326.21464.0/windows-mail-and-calendar-repacked.cer)，然后直接打开。
 2. 点击 `安装证书`，将会进入"证书导入向导"
 3. "存储位置"选 `本地计算机`，下一步（需要同意管理员权限请求）
 4. 选择 `将所有的证书都放入下列存储`，点击 `浏览`，选择 `受信任的根证书颁发机构`，确定，下一步，继续完成证书导入。
@@ -48,7 +48,7 @@
 
 为本项目提供了 README 的大部分内容，以及部分常见问题的解决方法。
 
-#### [Microsoft Developers](https://developer.microsoft.com/zh-cn/) & [Appx_Re-Sign](https://github.com/Empyreal96/Appx_Re-Sign)
+#### [Microsoft Developers](https://developer.microsoft.com/zh-cn/) & [Empyreal96/Appx_Re-Sign](https://github.com/Empyreal96/Appx_Re-Sign)
 
 提供了编辑 Appx 所需的工具和参考资料。
 

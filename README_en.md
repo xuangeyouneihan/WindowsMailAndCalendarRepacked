@@ -17,13 +17,13 @@
 
 ## Download
 
-Click to download: [16005.14326.21464.0](Release/windows-mail-and-calendar-repacked-16005-14326-21464-0.appxbundle)
+Click to download: [16005.14326.21464.0](https://github.com/xuangeyouneihan/WindowsMailAndCalendarRepacked/releases/download/16005.14326.21464.0/windows-mail-and-calendar-16005-14326-21464-0.appxbundle)
 
 ## Installation
 
 Since Windows only allows the installation of appx/msix packages from the **Microsoft Store** or **enterprise developers**, we need to install a **self-signed certificate** to disguise as an enterprise developer before we can install third-party packages.
 
-1. Download the [certificate file](Release/windows-mail-and-calendar-repacked.cer) and open it directly.
+1. Download the [certificate file](https://github.com/xuangeyouneihan/WindowsMailAndCalendarRepacked/releases/download/16005.14326.21464.0/windows-mail-and-calendar-repacked.cer) and open it directly.
 2. Click `Install Certificate`, which will enter the "Certificate Import Wizard".
 3. Select `Local Machine` for "Store Location", and click Next (you need to agree to the administrator permission request).
 4. Choose `Place all certificates in the following store`, click `Browse`, select `Trusted Root Certification Authorities`, confirm, click Next, and complete the certificate import.
@@ -50,7 +50,7 @@ Undoubtedly deserves to be in the first place.
 
 Provided the most contents for this README and solutions for some common issues.
 
-#### [Microsoft Developers](https://developer.microsoft.com) & [Appx_Re-Sign](https://github.com/Empyreal96/Appx_Re-Sign)
+#### [Microsoft Developers](https://developer.microsoft.com) & [Empyreal96/Appx_Re-Sign](https://github.com/Empyreal96/Appx_Re-Sign)
 
 Provided the tools and reference materials needed to edit Appx.
 
