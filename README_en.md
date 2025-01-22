@@ -36,6 +36,10 @@ Since Windows only allows the installation of appx/msix packages from the **Micr
 
 ## Known Issues and Solutions
 
+#### Cannot sign in to an email account using OAuth
+
+The solution is unknown. If you know the solution, I'll appreciate if you could send an issue.
+
 #### "Cannot install the related item" error when installing appx
 
 Usually, Windows' "App Installer" will automatically download and complete the missing dependency packages. However, in some system environments, or when the network connection to Microsoft's servers is not smooth, the installation may still prompt "Cannot install the related item". Please refer to the [detailed solution](Dependencies_en.md) for this issue.
